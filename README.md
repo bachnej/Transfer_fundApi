@@ -9,6 +9,8 @@ Technologies : `JAVA1.8, Spring, H2|MySQL, JUnit, Git`
 
 Installation : `mvn spring-boot:run`
 
+Test : `mvn test`
+
 ## Data Base
 The project configured and ready to be started with in-memory db H2.
 
